@@ -5,7 +5,7 @@
 
 - Void Linux          → runit
   (default and only init; independent, uses XBPS package manager)
-voidlinux.org
+https://voidlinux.org
 
 - Alpine Linux        → OpenRC
   (very lightweight, musl libc + BusyBox, popular for containers/servers)
